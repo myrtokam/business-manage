@@ -1,0 +1,16 @@
+transaction_id,date,type,category,description,amount,department,payment_method,status,invoice_number,tax_amount,notes
+F001,2025-01-05,income,sales,Product Sales - January Week 1,15000.00,Sales,bank_transfer,completed,INV-2025-001,2850.00,Regular sales
+F002,2025-01-05,expense,salaries,Monthly Salaries - January,35000.00,HR,bank_transfer,completed,SAL-2025-001,0,Staff payment
+F003,2025-01-06,expense,rent,Office Rent - January,2500.00,Administration,bank_transfer,completed,RENT-2025-001,475.00,Monthly rent
+F004,2025-01-07,income,sales,Product Sales - January Week 1,8500.00,Sales,card,completed,INV-2025-002,1615.00,Online orders
+F005,2025-01-08,expense,utilities,Electricity & Water,450.00,Administration,bank_transfer,completed,UTIL-2025-001,85.50,Monthly utilities
+F006,2025-01-08,expense,marketing,Facebook Ads Campaign,1200.00,Marketing,card,completed,MKT-2025-001,228.00,Q1 campaign
+F007,2025-01-09,income,sales,Product Sales - January Week 2,12000.00,Sales,bank_transfer,completed,INV-2025-003,2280.00,B2B orders
+F008,2025-01-10,expense,supplies,Office Supplies,350.00,Administration,cash,completed,SUP-2025-001,66.50,Stationery
+F009,2025-01-10,expense,software,Software Licenses,800.00,IT,card,completed,SOFT-2025-001,152.00,Annual renewal
+F010,2025-01-11,income,services,Consulting Services,5000.00,Consulting,bank_transfer,completed,INV-2025-004,950.00,Client project
+F011,2025-01-12,expense,travel,Business Trip - Athens,650.00,Sales,card,completed,TRV-2025-001,123.50,Client meeting
+F012,2025-01-12,income,sales,Product Sales - January Week 2,9500.00,Sales,card,completed,INV-2025-005,1805.00,Regular sales
+F013,2025-01-13,expense,maintenance,Equipment Maintenance,420.00,IT,bank_transfer,completed,MAINT-2025-001,79.80,Server upgrade
+F014,2025-01-14,income,sales,Product Sales - January Week 3,11000.00,Sales,bank_transfer,completed,INV-2025-006,2090.00,Holiday sales
+F015,2025-01-15,expense,training,Employee Training Workshop,1500.00,HR,card,completed,TRN-2025-001,285.00,Staff development

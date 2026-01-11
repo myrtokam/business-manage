@@ -1,0 +1,11 @@
+employee_id,first_name,last_name,position,department,hire_date,salary,email,phone,performance_score,projects_completed,working_hours_per_week,status,manager
+E001,Maria,Papadopoulos,CEO,Management,2020-01-15,8500.00,maria@company.com,6971234567,95,50,45,active,None
+E002,Nikos,Georgiou,Sales Manager,Sales,2020-03-20,4500.00,nikos@company.com,6972345678,88,35,40,active,E001
+E003,Elena,Dimitriou,Marketing Manager,Marketing,2020-05-10,4200.00,elena@company.com,6973456789,92,40,40,active,E001
+E004,Kostas,Ioannou,Developer,IT,2021-02-01,3500.00,kostas@company.com,6974567890,85,28,40,active,E001
+E005,Sofia,Nikolaou,Sales Rep,Sales,2021-06-15,2800.00,sofia@company.com,6975678901,90,32,40,active,E002
+E006,Dimitris,Petrou,Designer,Marketing,2021-08-20,3000.00,dimitris@company.com,6976789012,87,25,38,active,E003
+E007,Anna,Konstantinou,Developer,IT,2022-01-10,3200.00,anna@company.com,6977890123,89,22,40,active,E001
+E008,Giorgos,Athanasiou,Sales Rep,Sales,2022-03-15,2600.00,giorgos@company.com,6978901234,82,18,40,active,E002
+E009,Christina,Vasileiou,Support,Customer Service,2022-06-01,2400.00,christina@company.com,6979012345,91,30,40,active,E001
+E010,Panagiotis,Michalopoulos,Accountant,Finance,2023-01-05,3300.00,panagiotis@company.com,6970123456,86,20,40,active,E001

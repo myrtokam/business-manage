@@ -1,0 +1,6 @@
+name,surname,age,phone,email,address,city,deposit,product,service,delivery_address,payment_method,payment_installments,customer_notes,source,delivery_method,courier,courier_cost,purchases_count,services_used,customer_score,total_spent
+John,Smith,22,6912345678,john@gmail.com,Athinas 15,Athens,500,Laptop,Tech Support,Athinas 15,card,1,Good customer,store,courier,Speedex,5.50,3,2,85,1250.00
+Mike,Johnson,34,6923456789,mm@gmail.com,Ermou 42,Thessaloniki,22400,Smartphone,Premium Support,Ermou 42,cash,0,VIP customer,online,courier,ACS,7.00,15,8,95,45000.00
+Anna,Williams,45,6934567890,annie@gmail.com,Voulis 8,Athens,10000,Tablet,Warranty,Voulis 8,card,3,Prefers installments,store,pickup,None,0,7,4,78,18500.00
+Helen,Brown,60,6945678901,helen@gmail.com,Tsimiski 23,Thessaloniki,17340,Desktop PC,Installation,Tsimiski 23,card,6,Senior customer,online,courier,Courier Center,6.50,12,6,88,32000.00
+George,Davis,28,6956789012,george@gmail.com,Patision 100,Athens,3200,Headphones,None,Patision 100,cash,0,Quick buyer,store,pickup,None,0,2,0,65,650.00
